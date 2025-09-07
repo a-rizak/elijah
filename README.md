@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=HUNTER-XMD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=GLEN" alt="Typing SVG" /></a>
   </div>
 <a><img src='https://res.cloudinary.com/dgy2dutjs/image/upload/v1751656256/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_xyfpby.jpg'/></a>
 

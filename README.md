@@ -1,2 +1,1 @@
-Meet GLEN, your go-to WhatsApp assistant! GLEN helps you with tasks, answers questions, and chats about your interests. Get instant support, discover new topics, and make the most of your conversations with GLEN!# elijah
-Meet GLEN, your go-to WhatsApp assistant! GLEN helps you with tasks, answers questions, and chats about your interests. Get instant support, discover new topics, and make the most of your conversations with GLEN!
+🔰Meet GLEN, your go-to WhatsApp assistant! GLEN helps you with tasks, answers questions, and chats about your interests. Get instant support, discover new topics, and make the most of your conversations with GLEN🔰

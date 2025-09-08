@@ -43,7 +43,7 @@ ${config.DESCRIPTION}`;
 
         // Style 4: Code Style
         const style4 = `┌──────────────────────┐
-│  ⚡ UPTIME STATUS ⚡  │
+│  🔰 UPTIME STATUS 🔰  │
 ├──────────────────────┤
 │ • Time: ${uptime}
 │ • Started: ${startTime.toLocaleString()}
@@ -120,7 +120,7 @@ ${config.DESCRIPTION}`;
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363416335506023@newsletter',
-                    newsletterName: config.OWNER_NAME || 'ʜᴜɴᴛᴇʀ xᴍᴅ SUPPORT',
+                    newsletterName: config.OWNER_NAME || 'ELIJAH SUPPORT',
                     serverMessageId: 143
                 }
             }

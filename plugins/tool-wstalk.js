@@ -26,14 +26,14 @@ async (conn, mek, m, { from, reply, args }) => {
         const data = response.data.data;
 
         // Format the information
-        const channelInfo = `╭━━〔 *CHANNEL INFO* 〕━━┈⊷
+        const channelInfo = `╭━━[*CHANNEL INFO* ]━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *📢 Title*: ${data.title}
 ┃◈┃• *👥 Followers*: ${data.followers}
 ┃◈┃• *📝 Description*: ${data.description.replace(/\n/g, '\n┃◈┃• ')}
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jawad Tech`;
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ elijah`;
 
         // Send message with channel image
         await conn.sendMessage(from, {

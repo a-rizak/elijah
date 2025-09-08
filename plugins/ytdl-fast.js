@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> Powered By ᴏʙᴇᴅᴛᴇᴄʜ ❤️`;
+> powered by elijah🔰`;
 
         // Send video directly with caption
         await conn.sendMessage(
@@ -89,8 +89,8 @@ cmd({
             body: "Follow our WhatsApp Channel",
             mediaType: 1,
             thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
-            sourceUrl: 'https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y',
-            mediaUrl: 'https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y',
+            sourceUrl: 'https://whatsapp.com/channel/0029Vb6cfYr1Hspv5Das1m1X',
+            mediaUrl: 'https://whatsapp.com/channel/0029Vb6cfYr1Hspv5Das1m1X',
             showAdAttribution: true,
             renderLargerThumbnail: true
         }

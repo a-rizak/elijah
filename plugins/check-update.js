@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/criss-vevo/CRISS-MD/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/ELIJAH-Ombogo/elijah/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -53,12 +53,12 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/Obedweb/Hunter-Xmd1';
+    const githubRepo = 'https://github.com/ELIJAH-Ombogo/elijah';
 
     // Check update status
-    let updateMessage = `✅ Your ʜᴜɴᴛᴇʀ xᴍᴅ bot is up-to-date!`;
+    let updateMessage = `✅ Your glen bot is up-to-date!`;
     if (localVersion !== latestVersion) {
-      updateMessage = `🚀 Your ʜᴜɴᴛᴇʀ xᴍᴅ bot is outdated!
+      updateMessage = `🚀 Your glen bot is outdated!
 🔹 *Current Version:* ${localVersion}
 🔹 *Latest Version:* ${latestVersion}
 
@@ -66,14 +66,14 @@ Use *.update* to update.`;
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `📌 *Bot Name:* ʜᴜɴᴛᴇʀ xᴍᴅ\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
+      `📌 *Bot Name:* glen\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
-      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [Obedweb](https://github.com/Obedweb)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
+      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [elijah](https://github.com/ELIJAH-Ombogo)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751707342/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_exmbht.jpg` },
+      image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -81,7 +81,7 @@ Use *.update* to update.`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: 'ʜᴜɴᴛᴇʀ xᴍᴅ',
+                        newsletterName: 'glen',
                         serverMessageId: 143
         }
       }

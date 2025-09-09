@@ -19,9 +19,9 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭━━━〔 *CRISS-AI* 〕━━━┈⊷
+        let envSettings = `╭━━━〔 *Glen* 〕━━━┈⊷
 ┃▸╭───────────
-┃▸┃๏ *ENV SETTINGS 🗿*
+┃▸┃๏ *ENV SETTINGS 🔰*
 ┃▸└───────────···๏
 ╰────────────────┈⊷
 ╭━━〔 *Enabled Disabled* 〕━━┈⊷
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/4ggu0a.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363417599637828@newsletter',
-                        newsletterName: 'CRISS AI',
+                        newsletterName: 'glen',
                         serverMessageId: 143
                     }
                 }

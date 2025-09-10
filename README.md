@@ -37,7 +37,7 @@
 
    🕳IF YOU LOVE THIS PROJECT BY PK DRILLER... FOLLOW ME
    
-   <a href="https://github.com/elijah"><img title="FOLLOW-ACCOUNT" src="https://img.shields.io/badge/FOLLOW-ME-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+   <a href="https://github.com/ELIJAH-ombogo"><img title="FOLLOW-ACCOUNT" src="https://img.shields.io/badge/FOLLOW-ME-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
    🕎 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐖𝐄𝐁
 
@@ -47,7 +47,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 
-## 𝐑𝐄𝐀𝐂𝐇 𝐎𝐔𝐓 𝐎𝐁𝐄𝐃𝐓𝐄𝐂𝐇
+## GET ELIJAH 
 
  <a href="https://whatsapp.com/channel/0029Vb6cfYr1Hspv5Das1m1X"><img title="REACH OUT ELijah" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  

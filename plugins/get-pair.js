@@ -20,7 +20,7 @@ cmd({
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://glensession-1-jfap.onrender.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://glensession-6app.onrender.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
         
         if (!response.data || !response.data.code) {
             return await reply("hello please someone broke my heart 😭. Please try again later.");
@@ -64,7 +64,7 @@ cmd({
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://glensession-1-jfap.onrender.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://glensession-6app.onrender.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
         
         if (!response.data || !response.data.code) {
             return await reply("❌ Failed to retrieve pairing code. Please try again later.");

@@ -301,7 +301,7 @@ cmd({
     pattern: "groupmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "⤵️",
+    react: "🔰",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -350,7 +350,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_pl1cki.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -358,7 +358,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ",
+                        newsletterName: "glen",
                         serverMessageId: 143
                     }
                 }
@@ -385,39 +385,39 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
 
         let dec = `╭━━〔 *Fun Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• shapar
-┃◈┃• rate
-┃◈┃• insult
-┃◈┃• hack
-┃◈┃• ship
-┃◈┃• character
-┃◈┃• pickup 
-┃◈┃• joke
-┃◈┃• hrt
-┃◈┃• hpy
-┃◈┃• syd
-┃◈┃• anger
-┃◈┃• shy
-┃◈┃• kiss
-┃◈┃• mon
-┃◈┃• cunfuzed
-┃◈┃• setpp
-┃◈┃• hand
-┃◈┃• nikal
-┃◈┃• hold
-┃◈┃• hug
-┃◈┃• nikal
-┃◈┃• hifi
-┃◈┃• poke
-┃◈└───────────┈⊷
+┃🔰
+┃🔰shapar
+┃🔰rate
+┃🔰insult
+┃🔰hack
+┃🔰ship
+┃🔰character
+┃🔰pickup 
+┃🔰joke
+┃🔰hrt
+┃🔰hpy
+┃🔰syd
+┃🔰anger
+┃🔰shy
+┃🔰kiss
+┃🔰mon
+┃🔰cunfuzed
+┃🔰setpp
+┃🔰hand
+┃🔰nikal
+┃🔰hold
+┃🔰hug
+┃🔰nikal
+┃🔰hifi
+┃🔰poke
+┃
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_pl1cki.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -425,7 +425,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ",
+                        newsletterName: "glen",
                         serverMessageId: 143
                     }
                 }
@@ -451,44 +451,44 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `╭━━〔 *Other Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• timenow
-┃◈┃• date
-┃◈┃• count
-┃◈┃• calculate
-┃◈┃• countx
-┃◈┃• flip
-┃◈┃• coinflip
-┃◈┃• rcolor
-┃◈┃• roll
-┃◈┃• fact
-┃◈┃• cpp
-┃◈┃• rw
-┃◈┃• pair
-┃◈┃• pair2
-┃◈┃• pair3
-┃◈┃• fancy
-┃◈┃• logo <text>
-┃◈┃• define
-┃◈┃• news
-┃◈┃• movie
-┃◈┃• weather
-┃◈┃• srepo
-┃◈┃• insult
-┃◈┃• save
-┃◈┃• wikipedia
-┃◈┃• gpass
-┃◈┃• githubstalk
-┃◈┃• yts
-┃◈┃• ytv
-┃◈└───────────┈⊷
+┃🔰
+┃🔰timenow
+┃🔰date
+┃🔰count
+┃🔰calculate
+┃🔰countx
+┃🔰flip
+┃🔰coinflip
+┃🔰rcolor
+┃🔰roll
+┃🔰fact
+┃🔰cpp
+┃🔰rw
+┃🔰pair
+┃🔰pair2
+┃🔰pair3
+┃🔰fancy
+┃🔰logo <text>
+┃🔰define
+┃🔰news
+┃🔰movie
+┃🔰weather
+┃🔰srepo
+┃🔰insult
+┃🔰save
+┃🔰wikipedia
+┃🔰gpass
+┃🔰githubstalk
+┃🔰yts
+┃🔰ytv
+┃
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_pl1cki.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -496,7 +496,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ",
+                        newsletterName: "glen",
                         serverMessageId: 143
                     }
                 }
@@ -516,31 +516,31 @@ cmd({
     pattern: "mainmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🗿",
+    react: "🔶",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `╭━━〔 *Main Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• ping
-┃◈┃• live 
-┃◈┃• alive
-┃◈┃• runtime
-┃◈┃• uptime 
-┃◈┃• repo
-┃◈┃• owner
-┃◈┃• menu
-┃◈┃• menu2
-┃◈┃• restart
-┃◈└───────────┈⊷
+┃🔰
+┃🔰ping
+┃🔰live 
+┃🔰alive
+┃🔰runtime
+┃🔰uptime 
+┃🔰repo
+┃🔰owner
+┃🔰menu
+┃🔰menu2
+┃🔰restart
+┃
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_pl1cki.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -548,7 +548,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ",
+                        newsletterName: "glen",
                         serverMessageId: 143
                     }
                 }
@@ -574,32 +574,32 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `╭━━〔 *Owner Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• owner
-┃◈┃• menu
-┃◈┃• menu2
-┃◈┃• listcmd
-┃◈┃• allmenu
-┃◈┃• repo
-┃◈┃• block
-┃◈┃• unblock
-┃◈┃• fullpp
-┃◈┃• setpp
-┃◈┃• restart
-┃◈┃• shutdown
-┃◈┃• updatecmd
-┃◈┃• alive
-┃◈┃• ping 
-┃◈┃• gjid
-┃◈┃• jid
-┃◈└───────────┈⊷
+┃🔰
+┃🔰owner
+┃🔰menu
+┃🔰menu2
+┃🔰listcmd
+┃🔰allmenu
+┃🔰repo
+┃🔰block
+┃🔰unblock
+┃🔰fullpp
+┃🔰setpp
+┃🔰restart
+┃🔰shutdown
+┃🔰updatecmd
+┃🔰alive
+┃🔰ping 
+┃🔰gjid
+┃🔰jid
+┃
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_pl1cki.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -607,7 +607,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ",
+                        newsletterName: "glen",
                         serverMessageId: 143
                     }
                 }
@@ -627,40 +627,40 @@ cmd({
     pattern: "convertmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🥀",
+    react: "🏵️",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `╭━━〔 *Convert Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• sticker
-┃◈┃• sticker2
-┃◈┃• emojimix
-┃◈┃• fancy
-┃◈┃• take
-┃◈┃• tomp3
-┃◈┃• tts
-┃◈┃• trt
-┃◈┃• base64
-┃◈┃• unbase64
-┃◈┃• binary
-┃◈┃• dbinary
-┃◈┃• tinyurl
-┃◈┃• urldecode
-┃◈┃• urlencode
-┃◈┃• url
-┃◈┃• repeat 
-┃◈┃• ask
-┃◈┃• readmore
-┃◈└───────────┈⊷
+┃🔰
+┃🔰sticker
+┃🔰sticker2
+┃🔰emojimix
+┃🔰fancy
+┃🔰take
+┃🔰tomp3
+┃🔰tts
+┃🔰trt
+┃🔰base64
+┃🔰unbase64
+┃🔰binary
+┃🔰dbinary
+┃🔰tinyurl
+┃🔰urldecode
+┃🔰urlencode
+┃🔰url
+┃🔰repeat 
+┃🔰ask
+┃🔰readmore
+┃
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_pl1cki.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -668,7 +668,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ",
+                        newsletterName: "glen",
                         serverMessageId: 143
                     }
                 }
@@ -689,47 +689,47 @@ cmd({
     pattern: "animemenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🧚",
+    react: "🔶",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
           let dec = `╭━━〔 *Anime Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• fack
-┃◈┃• dog
-┃◈┃• awoo
-┃◈┃• garl
-┃◈┃• waifu
-┃◈┃• neko
-┃◈┃• megnumin
-┃◈┃• neko
-┃◈┃• maid
-┃◈┃• loli
-┃◈┃• animegirl
-┃◈┃• animegirl
-┃◈┃• animegirl1
-┃◈┃• animegirl2
-┃◈┃• animegirl3
-┃◈┃• animegirl4
-┃◈┃• animegirl5
-┃◈┃• anime1
-┃◈┃• anime1
-┃◈┃• anime2
-┃◈┃• anime3
-┃◈┃• anime4
-┃◈┃• anime5
-┃◈┃• animenews
-┃◈┃• foxgirl
-┃◈┃• naruto
-┃◈└───────────┈⊷
+┃🔰
+┃🔰fack
+┃🔰dog
+┃🔰awoo
+┃🔰garl
+┃🔰waifu
+┃🔰neko
+┃🔰megnumin
+┃🔰neko
+┃🔰maid
+┃🔰loli
+┃🔰animegirl
+┃🔰animegirl
+┃🔰animegirl1
+┃🔰animegirl2
+┃🔰animegirl3
+┃🔰animegirl4
+┃🔰animegirl5
+┃🔰anime1
+┃🔰anime1
+┃🔰anime2
+┃🔰anime3
+┃🔰anime4
+┃🔰anime5
+┃🔰animenews
+┃🔰foxgirl
+┃🔰naruto
+┃
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_pl1cki.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -737,7 +737,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ",
+                        newsletterName: "glen",
                         serverMessageId: 143
                     }
                 }
@@ -758,37 +758,37 @@ cmd({
     pattern: "aimenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🤖",
+    react: "🔸",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `╭━━〔 *Ai Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• ai
-┃◈┃• gpt3
-┃◈┃• gpt2
-┃◈┃• gptmini
-┃◈┃• gpt
-┃◈┃• meta
-┃◈┃• blackbox
-┃◈┃• luma
-┃◈┃• dj 
-┃◈┃• criss
-┃◈┃• vevo
-┃◈┃• gpt4
-┃◈┃• bing
-┃◈┃• imagine 
-┃◈┃• imagine2
-┃◈┃• copilot
-┃◈└───────────┈⊷
+┃🔰
+┃🔰ai
+┃🔰gpt3
+┃🔰gpt2
+┃🔰gptmini
+┃🔰gpt
+┃🔰meta
+┃🔰blackbox
+┃🔰luma
+┃🔰dj 
+┃🔰criss
+┃🔰vevo
+┃🔰gpt4
+┃🔰bing
+┃🔰imagine 
+┃🔰imagine2
+┃🔰copilot
+┃
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_pl1cki.jpg` },
+                image: { url: `https://files.catbox.moe/dn82e9.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -796,7 +796,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ",
+                        newsletterName: "glen",
                         serverMessageId: 143
                     }
                 }

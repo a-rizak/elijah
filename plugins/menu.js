@@ -66,8 +66,8 @@ cmd({
 
         // Send menu audio only once
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/criss-vevo/CRISS-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
-            mimetype: 'audio/mp4',
+            audio: { url: 'https://files.catbox.moe/xrbsqj.mp3' },
+            mimetype: 'audio/mp3',
             ptt: true,       
         }, { quoted: mek });
 

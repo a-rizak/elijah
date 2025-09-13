@@ -47,8 +47,8 @@ async (conn, mek, m, { from, reply }) => {
 
         // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://raw.githubusercontent.com/ELIJAH-Ombogo/elijah/main/53aa1d%20(1).mp3' },
-            mimetype: 'audio/mp3',
+            audio: { url: 'https://github.com/ELIJAH-Ombogo/elijah/blob/main/99acf5eb48108397c0293c6a5179a90b.mp4' },
+            mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
                 mentionedJid: [m.sender],

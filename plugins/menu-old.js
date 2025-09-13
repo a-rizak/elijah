@@ -64,7 +64,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: '' },
+            audio: { url: 'https://raw.githubusercontent.com/ELIJAH-Ombogo/elijah/main/53aa1d%20(1).mp3' },
             mimetype: 'audio/mp3',
             ptt: true
         }, { quoted: mek });

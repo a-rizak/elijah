@@ -64,7 +64,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/TeddyDommie/Princess-Ruby/blob/main/Media/alive.mp3' },
+            audio: { url: '' },
             mimetype: 'audio/mp3',
             ptt: true
         }, { quoted: mek });
